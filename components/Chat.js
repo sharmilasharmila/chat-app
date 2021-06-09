@@ -19,7 +19,6 @@ export default class Chat extends React.Component {
           user: {
             _id: 2,
             name: 'React Native',
-            avatar: 'https://i.pinimg.com/originals/83/8a/9b/838a9b531d083160e022a4e7c194d0dc.jpg',
           },
         },
         {
